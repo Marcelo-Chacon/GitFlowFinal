@@ -2,3 +2,5 @@ Declarações de variáveis - teste OK
 Leitura de variáveis - teste OK
 Criação da função soma - Testes OK Teste finalizados
 Criação da função subtração - teste OK
+Criação da Função multiplicação- teste OK
+Criação da Função divisão- teste OK
