@@ -1,4 +1,4 @@
 Declarações de variáveis - teste OK
 Leitura de variáveis - teste OK
 Criação da função soma - Testes OK Teste finalizados
-Criação da função subtração
+Criação da função subtração - teste OK
